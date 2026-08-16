@@ -5,7 +5,7 @@ This project provides a data-driven analysis of the job market for Data Analysts
 
 The analysis is based on the 'lukebarousse/data_jobs dataset', a comprehensive collection of data job postings curated by Luke Barousse
 
-The dataset can be accessed here: https://huggingface.co/datasets/lukebarousse/data_jobs.
+The dataset can be accessed here: https://huggingface.co/datasets/lukebarousse/data_jobs
 
 ---
 
